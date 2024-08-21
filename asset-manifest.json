@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VishwanathanA/Employee-form-using-react-js.git/static/css/main.09066214.css",
+    "main.js": "/VishwanathanA/Employee-form-using-react-js.git/static/js/main.f5aa07de.js",
+    "index.html": "/VishwanathanA/Employee-form-using-react-js.git/index.html",
+    "main.09066214.css.map": "/VishwanathanA/Employee-form-using-react-js.git/static/css/main.09066214.css.map",
+    "main.f5aa07de.js.map": "/VishwanathanA/Employee-form-using-react-js.git/static/js/main.f5aa07de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09066214.css",
+    "static/js/main.f5aa07de.js"
+  ]
+}
